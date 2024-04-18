@@ -1,4 +1,4 @@
-<h1 align="center"> G-Links </h1>
+<h1 align="center"> Ricardo Necchi </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto G-Links" src="github/preview.png" width="100%">
+  <img alt="Projeto RN" src="github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
