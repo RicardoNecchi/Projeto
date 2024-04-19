@@ -1,4 +1,4 @@
-<h1 align="center"> Ricardo Necchi </h1>
+<h1 align="center"> Necchi Links </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O GLinks é um agregador de links para usar como cartão de visitas online.
+O Links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://gsanchexs.github.io/G-Links)
+- [Acesse o projeto finalizado, online](https://ricardonecchi.github.io/Projeto/)
 
 ## 🔖 Layout
 
